@@ -5,7 +5,7 @@ public class TestaBreak {
                 if (coluna > linha) {
                     break;
                 }
-                System.out.print("*");
+                System.out.print("-");
             }
             System.out.println();
         }
